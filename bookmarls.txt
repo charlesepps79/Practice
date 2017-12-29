@@ -1,0 +1,96 @@
+Data Analytics for Beginners: Part 1
+https://statsguys.wordpress.com/2014/01/03/first-post/
+
+Kaggle
+https://www.kaggle.com/
+
+Your First Machine Learning Project in R Step-By-Step (tutorial and template for future projects)
+https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
+
+Lesson 1: Simple Linear Regression
+https://onlinecourses.science.psu.edu/stat501/node/250
+
+In-depth introduction to machine learning in 15 hours of expert videos
+https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+
+CHOOSING THE CORRECT STATISTICAL TEST IN SAS, STATA, SPSS AND R
+https://stats.idre.ucla.edu/other/mult-pkg/whatstat/
+
+MITOpenCourseware AI
+https://www.youtube.com/watch?v=TjZBTDzGeGg
+
+Fitting a neural network in R; neuralnet package
+https://www.r-bloggers.com/fitting-a-neural-network-in-r-neuralnet-package/
+
+Natural Language Toolkit
+http://www.nltk.org/book/ch00.html
+
+Natural Language Processing
+https://rpubs.com/lmullen/nlp-chapter
+
+Exploratory Analysis - Zillow
+https://www.kaggle.com/philippsp/exploratory-analysis-zillow
+
+Machine learning schemes in augmented reality for features detection
+http://ieeexplore.ieee.org/document/7113179/
+
+OpenCV-Python Tutorials
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
+
+R code: reading, preprocessing and counting text
+http://www.katrinerk.com/courses/words-in-a-haystack-an-introductory-statistics-course/schedule-words-in-a-haystack/r-code-the-text-mining-package
+
+Working with databases in R
+https://datascienceplus.com/working-with-databases-in-r/
+
+The key to building a data science portfolio that will get you a job
+https://www.dataquest.io/blog/build-a-data-science-portfolio/
+
+The Open Source Data Science Masters
+http://datasciencemasters.org/
+
+Git--Book
+https://git-scm.com/book/en/v2
+
+CSCI E-109 Publication Listing
+https://matterhorn.dce.harvard.edu/engage/ui/index.html#/2016/01/14328?typeNum=L01
+
+Learn Pandas
+https://bitbucket.org/hrojas/learn-pandas
+
+CS109 Data Science
+http://cs109.github.io/2015/pages/videos.html
+
+Lesson 2: Connecting from Another Computer
+https://docs.microsoft.com/en-us/sql/relational-databases/lesson-2-connecting-from-another-computer
+
+How To Download & Install SQLite
+http://www.sqlitetutorial.net/download-install-sqlite/
+
+Working with pandas
+http://xarray.pydata.org/en/stable/pandas.html
+
+Quick overview
+http://xarray.pydata.org/en/stable/examples/quick-overview.html
+
+Exploring different distribution.ipynb
+https://gist.github.com/mattions/6113437/
+
+An Evening with Psycopg2
+https://www.youtube.com/watch?v=f5TQO4ABotw
+
+Lab3-Stats.ipynb
+https://github.com/cs109/2015lab3/blob/master/Lab3-Stats.ipynb
+
+Life Is Study
+http://hamelg.blogspot.com/2013/
+
+Lectures in
+Quantitative Economics
+https://lectures.quantecon.org/py/index.html
+
+A gallery of interesting Jupyter Notebooks
+https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+
+free-programming-books
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
